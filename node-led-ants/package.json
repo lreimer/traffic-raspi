@@ -1,0 +1,33 @@
+{
+  "name": "led-ants",
+  "version": "1.0.0",
+  "description": "Cycle through all Jam HAT LEDs.",
+  "main": "led-ants.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lreimer/traffic-raspi.git"
+  },
+  "keywords": [
+    "education",
+    "kids-programming",
+    "raspberry-pi"
+  ],
+  "author": "M.-Leander Reimer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lreimer/traffic-raspi/issues"
+  },
+  "homepage": "https://github.com/lreimer/traffic-raspi#readme",
+  "dependencies": {
+    "onoff": "^3.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
