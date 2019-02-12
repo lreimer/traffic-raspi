@@ -23,7 +23,7 @@ try:
                 counter -= 1
                 while GPIO.input(down):
                     sleep(0.1)
-            print "Counter: %d" % counter
+            print("Counter: ", counter)
         sleep(0.1)
 except:
     GPIO.cleanup()
