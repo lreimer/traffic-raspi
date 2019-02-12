@@ -1,25 +1,10 @@
 {
   "name": "johnny-five-ants",
   "version": "1.0.0",
-  "description": "Cycle through the Jam HAT LEDs using Johnny-Five.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"INFO: No test specified.\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lreimer/traffic-raspi.git"
-  },
-  "keywords": [
-    "raspberry-pi",
-    "education",
-    "javascript",
-    "kids-programming"
-  ],
-  "author": "M.-Leander Reimer",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/lreimer/traffic-raspi/issues"
-  },
-  "homepage": "https://github.com/lreimer/traffic-raspi#readme"
+  "dependencies": {
+    "johnny-five": "^1.0.0",
+    "raspi-io": "^9.0.1"
+  }
 }
