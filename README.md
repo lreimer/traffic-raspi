@@ -41,3 +41,13 @@ Of course, I was also keen on programming the Jam HAT. The official demo files o
 
 ### Using Jam HAT with Node.js
 
+## References
+
+- http://wiringpi.com/pins/
+- https://projects.raspberrypi.org/de-DE/jam/jam
+- https://www.npmjs.com/package/temporal
+- https://github.com/nebrius/raspi-io/
+- http://johnny-five.io
+- https://www.modmypi.com/raspberry-pi/led-displays-and-drivers-1034/jam-hat
+- https://www.raspberrypi.org/documentation/usage/gpio/scratch2/README.md
+
