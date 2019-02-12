@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import RPi.GPIO as GPIO
 from time import sleep
 
@@ -142,7 +144,7 @@ underworld_tempo = [
   10, 10, 10,
   10, 10, 10,
   3, 3, 3]
-  
+
 def buzz(freq,length):
         if not freq:
                 pwm.ChangeDutyCycle(0)
@@ -169,7 +171,7 @@ def sing(s):
                         buzz(underworld_melody[note],duration)
                         sleep(duration*1.3)
                         note+=1
-						
+
 try:
 	pwm.start(0)
 	sing(1)
