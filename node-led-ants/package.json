@@ -1,9 +1,11 @@
 {
-  "name": "led-ants",
+  "name": "node-led-ants",
   "version": "1.0.0",
   "description": "Cycle through all Jam HAT LEDs.",
-  "main": "led-ants.js",
-  "scripts": {},
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"INFO: No test specified.\""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lreimer/traffic-raspi.git"
