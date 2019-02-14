@@ -1,4 +1,4 @@
-# Raspberry Pi Traffics Lights
+# Raspberry Pi Traffic Lights
 
 This is for all the moms and dads out their that want to teach and show their kids the joy of tech and programming. This repository contains all the info and files from my first project with my eldest daughter. For some reason, she wanted to build a traffic light. Well, here we go!
 
